@@ -20,8 +20,12 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/lKhanl/lKhanl/master/java.svg?token=AN32QJLMBZ54I3TJVYEAFWLBYOS2E" />][website]
-[<img align="left" alt="spring" width="26px" src="https://raw.githubusercontent.com/lKhanl/lKhanl/master/spring.svg?token=AN32QJPKWML3ZYR7PMTW2GLBYOTEE" />][website]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/lKhanl/lKhanl/master/java.svg?token=AN32QJLMBZ54I3TJVYEAFWLBYOS2E" />][website]
+[<img align="left" alt="Spring Framework" width="26px" src="https://raw.githubusercontent.com/lKhanl/lKhanl/master/spring.svg?token=AN32QJPKWML3ZYR7PMTW2GLBYOTEE" />][website]
+[<img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/lKhanl/lKhanl/master/c%23.svg?token=AN32QJNNM2YSCZQF4EWUJETBYOTRK" />][website]
+[<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/lKhanl/lKhanl/master/c%23.svg?token=AN32QJNNM2YSCZQF4EWUJETBYOTRK" />][website]
+[<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/lKhanl/lKhanl/master/c%23.svg?token=AN32QJNNM2YSCZQF4EWUJETBYOTRK" />][website]
+[<img align="left" alt="mui" width="26px" src="https://raw.githubusercontent.com/lKhanl/lKhanl/master/c%23.svg?token=AN32QJNNM2YSCZQF4EWUJETBYOTRK" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website] 
