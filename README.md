@@ -47,3 +47,6 @@
 [instagram]: https://www.instagram.com/oguzhanercelik/
 [linkedin]: https://www.linkedin.com/in/oğuzhan-erçelik-62a006174/
 [teklifyap]: https://teklifyap.herokuapp.com/
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lKhanl)](https://github.com/anuraghazra/github-readme-stats)
