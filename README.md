@@ -43,7 +43,7 @@
 
 </details> -->
 
-[website]: https://lkhanl.github.io/oguzhanercelik/
+[website]: https://me.oguzhanercelik.dev
 [instagram]: https://www.instagram.com/oguzhanercelik/
 [linkedin]: https://www.linkedin.com/in/oğuzhan-erçelik-62a006174/
 [teklifyap]: https://teklifyap.herokuapp.com/
