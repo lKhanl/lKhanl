@@ -46,7 +46,7 @@
 [website]: https://me.oguzhanercelik.dev
 [instagram]: https://www.instagram.com/oguzhanercelik/
 [linkedin]: https://www.linkedin.com/in/oğuzhan-erçelik-62a006174/
-[teklifyap]: https://teklifyap.herokuapp.com/
+[teklifyap]: https://teklifyap.oguzhanercelik.dev/
 
 
 <br /><br />
