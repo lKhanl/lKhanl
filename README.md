@@ -4,9 +4,6 @@
 
 - 🔭 I launched my first web app: [Teklif Yap][teklifyap]!
 - 🌱 I’m currently learning Backend Technologies 💪
-- 🥅 2022 Goals: 
-    * Build more complex web apps
-    * Learn new things about different areas in Computer Science
 
 ### Connect with me:
 
