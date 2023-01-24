@@ -2,7 +2,8 @@
 
 ## I'm a student at Eskisehir Technical University and Backend Developer!!
 
-- 🔭 I launched my first web app: [Teklif Yap][teklifyap]!
+- 🔭 I launched my first web app: [teklifyap-v1][teklifyap-v1]! (November 2021)
+- 🔭 Second version of teklifyap: [teklifyap-v2][teklifyap-v2]! (January 2021)
 - 🌱 I’m currently learning Backend Technologies 💪
 
 ### Connect with me:
@@ -33,8 +34,8 @@
 [website]: https://me.oguzhanercelik.dev
 [instagram]: https://www.instagram.com/oguzhanercelik/
 [linkedin]: https://www.linkedin.com/in/oğuzhan-erçelik-62a006174/
-[teklifyap]: https://teklifyap.oguzhanercelik.dev/
-
+[teklifyap-v1]: https://teklifyap-v1.oguzhanercelik.dev/
+[teklifyap-v2]: https://teklifyap-v1.oguzhanercelik.dev/
 
 <br /><br />
 
