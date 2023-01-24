@@ -31,7 +31,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
-[website]: https://me.oguzhanercelik.dev
+[website]: https://oguzhanercelik.dev
 [instagram]: https://www.instagram.com/oguzhanercelik/
 [linkedin]: https://www.linkedin.com/in/oğuzhan-erçelik-62a006174/
 [teklifyap-v1]: https://teklifyap-v1.oguzhanercelik.dev/
