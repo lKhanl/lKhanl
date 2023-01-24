@@ -35,7 +35,7 @@
 [instagram]: https://www.instagram.com/oguzhanercelik/
 [linkedin]: https://www.linkedin.com/in/oğuzhan-erçelik-62a006174/
 [teklifyap-v1]: https://teklifyap-v1.oguzhanercelik.dev/
-[teklifyap-v2]: https://teklifyap-v1.oguzhanercelik.dev/
+[teklifyap-v2]: https://teklifyap.oguzhanercelik.dev/
 
 <br /><br />
 
