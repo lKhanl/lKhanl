@@ -3,7 +3,7 @@
 ## I'm a student at Eskisehir Technical University and Backend Developer!!
 
 - 🔭 I launched my first web app: [teklifyap-v1][teklifyap-v1]! (November 2021)
-- 🔭 Second version of teklifyap: [teklifyap-v2][teklifyap-v2]! (January 2021)
+- 🔭 Second version of teklifyap: [teklifyap-v2][teklifyap-v2]! (January 2022)
 - 🌱 I’m currently learning Backend Technologies 💪
 
 ### Connect with me:
