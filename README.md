@@ -18,12 +18,13 @@
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/lKhanl/lKhanl/master/java.svg?token=AN32QJLMBZ54I3TJVYEAFWLBYOS2E" />][website]
 [<img align="left" alt="Spring Framework" width="26px" src="https://raw.githubusercontent.com/lKhanl/lKhanl/master/spring.svg?token=AN32QJPKWML3ZYR7PMTW2GLBYOTEE" />][website]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/lKhanl/lKhanl/master/postgresql.png" />][website]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/lKhanl/lKhanl/master/ubuntu.svg?token=AN32QJMWAX5QOKRQM27ZSATBYOUG4" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 
 [website]: https://oguzhanercelik.dev
 [instagram]: https://www.instagram.com/oguzhanercelik/
