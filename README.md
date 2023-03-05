@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin,&theme=light)][linkedin]
 [![My Skills](https://skillicons.dev/icons?i=instagram,&theme=light)][instagram]
 
-### Languages and Tools:
+### My Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,linux,rabbitmq,svelte,react,&theme=light)](https://skillicons.dev)
 
