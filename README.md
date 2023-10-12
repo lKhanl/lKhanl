@@ -1,10 +1,8 @@
 ### Hi there, I'm Oğuzhan - aka [Khan][website] 👋 
 
 ## I'm a Software Engineer.
-
-- 🔭 I launched my first web app: teklifyap-v1! (November 2021) (not in prod now)
-- 🔭 Second version of teklifyap: teklifyap-v2! (January 2022) (not in prod now)
-- 🌱 I’m currently learning Backend Technologies 💪
+  
+  🌱 I’m currently learning Backend Technologies 💪
 
 ### Connect with me:
 
