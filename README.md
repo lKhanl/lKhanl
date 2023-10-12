@@ -12,7 +12,7 @@
 
 ### My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,linux,rabbitmq,svelte,react,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,linux,rabbitmq,nextjs,react,&theme=light)](https://skillicons.dev)
 
 [website]: https://oguzhanercelik.dev
 [instagram]: https://www.instagram.com/oguzhanercelik/
