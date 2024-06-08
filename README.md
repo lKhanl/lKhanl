@@ -1,8 +1,6 @@
 ### Hi there, I'm Oğuzhan - aka [Khan][website] 👋 
 
-## I'm a Software Engineer.
-  
-  🌱 I’m currently learning Backend Technologies 💪
+## I'm a Software Engineer
 
 ### Connect with me:
 
@@ -17,7 +15,3 @@
 [website]: https://oguzhanercelik.dev
 [instagram]: https://www.instagram.com/oguzhanercelik/
 [linkedin]: https://www.linkedin.com/in/oguzhanercelik/
-
-<br />
-
-[![Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lKhanl)](https://github.com/anuraghazra/github-readme-stats)
